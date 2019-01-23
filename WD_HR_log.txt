@@ -1,0 +1,428 @@
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-18 18:07:02
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-18 19:07:02
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-18 20:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-18 21:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-18 22:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-18 23:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-19 00:10:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-19 01:07:02
+Feature: WD_HR
+Stations not exist: (10 線西) (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-19 02:07:01
+Feature: WD_HR
+Stations not exist: (10 線西) (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-19 03:07:02
+Feature: WD_HR
+Stations not exist: (10 線西) (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-19 04:07:01
+Feature: WD_HR
+Stations not exist: (10 線西) (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-19 05:07:01
+Feature: WD_HR
+Stations not exist: (10 線西) (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-19 06:07:02
+Feature: WD_HR
+Stations not exist: (10 線西) (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-19 07:07:01
+Feature: WD_HR
+Stations not exist: (10 線西) (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-19 08:07:01
+Feature: WD_HR
+Stations not exist: (10 線西) (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-19 09:07:01
+Feature: WD_HR
+Stations not exist: (10 線西) (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-19 10:07:01
+Feature: WD_HR
+Stations not exist: (10 線西) (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-19 11:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-19 12:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-19 13:07:02
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-19 14:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-19 15:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-19 16:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-19 17:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-19 18:07:02
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-19 19:07:02
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-19 20:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-19 21:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-19 22:07:02
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-19 23:07:02
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-20 00:10:02
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-20 01:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-20 02:07:02
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-20 03:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-20 04:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-20 05:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-20 06:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-20 07:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-20 08:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-20 09:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-20 10:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-20 11:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-20 12:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-20 13:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-20 14:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-20 15:07:02
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-20 16:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-20 17:07:02
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-20 18:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-20 19:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-20 20:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-20 21:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-20 22:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-20 23:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-21 00:10:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-21 01:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-21 02:07:02
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-21 03:07:02
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-21 04:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-21 05:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-21 06:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-21 07:07:02
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-21 08:07:02
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-21 09:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-21 10:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-21 11:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-21 12:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-21 13:07:02
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-21 14:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-21 15:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-21 16:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-21 17:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-21 18:07:02
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-21 19:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-21 20:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-21 21:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-21 22:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-21 23:07:02
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-22 00:10:02
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-22 01:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-22 02:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-22 03:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-22 04:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-22 05:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-22 06:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-22 07:07:02
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-22 08:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-22 09:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-22 10:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-22 11:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/response.py", line 226, in _error_catcher
+    yield
+  File "/usr/lib/python3/dist-packages/urllib3/response.py", line 301, in read
+    data = self._fp.read(amt)
+  File "/usr/lib/python3.5/http/client.py", line 448, in read
+    n = self.readinto(b)
+  File "/usr/lib/python3.5/http/client.py", line 488, in readinto
+    n = self.fp.readinto(b)
+  File "/usr/lib/python3.5/socket.py", line 575, in readinto
+    return self._sock.recv_into(b)
+  File "/usr/lib/python3.5/ssl.py", line 929, in recv_into
+    return self.read(nbytes, buffer)
+  File "/usr/lib/python3.5/ssl.py", line 791, in read
+    return self._sslobj.read(len, buffer)
+  File "/usr/lib/python3.5/ssl.py", line 575, in read
+    v = self._sslobj.read(len, buffer)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/models.py", line 660, in generate
+    for chunk in self.raw.stream(chunk_size, decode_content=True):
+  File "/usr/lib/python3/dist-packages/urllib3/response.py", line 344, in stream
+    data = self.read(amt=amt, decode_content=decode_content)
+  File "/usr/lib/python3/dist-packages/urllib3/response.py", line 311, in read
+    flush_decoder = True
+  File "/usr/lib/python3.5/contextlib.py", line 77, in __exit__
+    self.gen.throw(type, value, traceback)
+  File "/usr/lib/python3/dist-packages/urllib3/response.py", line 244, in _error_catcher
+    raise ProtocolError('Connection broken: %r' % e, e)
+requests.packages.urllib3.exceptions.ProtocolError: ("Connection broken: ConnectionResetError(104, 'Connection reset by peer')", ConnectionResetError(104, 'Connection reset by peer'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "crawler_WD_HR.py", line 86, in <module>
+    res_initial = requests.get(url)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 67, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 53, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 480, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 620, in send
+    r.content
+  File "/usr/lib/python3/dist-packages/requests/models.py", line 737, in content
+    self._content = bytes().join(self.iter_content(CONTENT_CHUNK_SIZE)) or bytes()
+  File "/usr/lib/python3/dist-packages/requests/models.py", line 663, in generate
+    raise ChunkedEncodingError(e)
+requests.exceptions.ChunkedEncodingError: ("Connection broken: ConnectionResetError(104, 'Connection reset by peer')", ConnectionResetError(104, 'Connection reset by peer'))
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-22 13:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-22 14:07:01
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-22 15:07:02
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
+Time: 2018-12-22 16:07:02
+Feature: WD_HR
+Stations not exist: (23 陽明) (29 淡水) (30 崙背) (56 朴子) (71 大同) (75 三重) (77 崇倫) (78 阿里山)
