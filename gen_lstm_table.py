@@ -11,7 +11,7 @@ STATIONS_TOTAL = 76
 # 註: PM2.5有兩個，一個是PM2.5差值（當前-上一小時），另一個是PM2.5值；
 # PASS為預留給風向資料拆成cos和sin的位置，會於迴圈中略過
 # FEATURE_LIST = ['AMB_TEMP', 'PM10', 'PM2.5', 'RH', 'WIND_DIREC', 'PASS', 'WIND_SPEED', 'WD_HR', 'PASS', 'WS_HR', 'PM2.5_delta']
-FEATURE_LIST = ["PM2.5_delta","PM2.5","PM10","WS_HR","WD_HR","PASS","WIND_SPEED","WIND_DIREC","PASS","AMB_TEMP","RH"]
+FEATURE_LIST = ['AMB_TEMP', 'PM10', 'PM2.5', 'RH', 'WIND_SPEED', 'WS_HR', 'WIND_DIREC', 'PASS', 'WD_HR', 'PASS', 'PM2.5_delta']
 FEATURE_BASE = {
     'PM2.5': 500,
     'PM2.5_delta': 500,
@@ -93,8 +93,10 @@ def getCosSinNormalizedValues(recent_six_list):
             sin_list[i] = 0
         else:
             # normalize cos sin from [-1,1] to [0,1]
-            cos_list[i] = (math.cos(val*math.pi/180)+1)/2
-            sin_list[i] = (math.sin(val*math.pi/180)+1)/2
+            cos_list[i] = math.cos(val * math.pi / 180)
+            sin_list[i] = math.sin(val * math.pi / 180)
+            # cos_list[i] = (math.cos(val*math.pi/180)+1)/2
+            # sin_list[i] = (math.sin(val*math.pi/180)+1)/2
     return cos_list, sin_list
 
 
