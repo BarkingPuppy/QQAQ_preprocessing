@@ -1,6 +1,5 @@
 #%%
 import os
-os.chdir('e:/QQAQ_project/test/QQAQ_preprocessing/crawler_fromDB')
 import datetime as dt
 import json
 from pymongo import MongoClient

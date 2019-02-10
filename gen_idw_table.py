@@ -6,7 +6,7 @@ import numpy as np
 
 RECENT_SIX_PATH = './recent6'
 STATIONS_TOTAL = 76
-RESULT_PATH = './dtw_table'
+RESULT_PATH = './idw_table'
 PM2P5_BASE = 500
 current_time = dt.datetime.utcnow() + dt.timedelta(hours=8)
 
@@ -36,7 +36,7 @@ if __name__ == "__main__":
         if not os.path.isdir(RESULT_PATH):
             os.mkdir(RESULT_PATH)
         result_table = result_table / PM2P5_BASE
-        np.save('{}/dtw_table.npy'.format(RESULT_PATH), result_table)
+        np.save('{}/idw_table.npy'.format(RESULT_PATH), result_table)
         t_end = time.time()
         print('Elapsed time:', t_end - t_start, 'sec')
         

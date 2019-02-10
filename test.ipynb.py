@@ -1,50 +1,31 @@
 #%%
-def checkValueValidity(val):
-    try:
-        if '.' in val:
-            hr_v = float(val)
-        else:
-            hr_v = int(val)
-        hr_flag = 0
-    except ValueError:
-        if '#' in val:
-            hr_flag = 1
-        elif '*' in val: 
-            hr_flag = 2
-        elif 'x' in val: 
-            hr_flag = 3
-        elif 'X' in val: 
-            hr_flag = 3
-        elif val == 'NR': 
-            hr_flag = 4
-        elif val == 'null': 
-            hr_flag = 5
-        elif val == '': 
-            hr_flag = 5
-        elif val == 'NA': 
-            hr_flag = -1
-        elif val == 'ND':
-            hr_v = 1
-            hr_flag = 0
-    finally:
-        if hr_flag != 0:
-            hr_v = -1
-        return hr_flag, hr_v
+import os
+import datetime as dt
+import json
+from pymongo import MongoClient
+from pprint import pprint
 
 #%%
-val = None
-hr_flag, hr_v = checkValueValidity(val)
-print(hr_flag, hr_v)
+with open('config/db_config.json', 'r') as f:
+    info = json.load(f)
+    DB_USERNAME = info['username']
+    DB_PASSWORD = info['password']
+    DB_HOST = info['database_host']
+    f.close()
+
+db_conn = MongoClient('mongodb://{uid}:{psd}@{db_host}'
+    .format(uid=DB_USERNAME, psd=DB_PASSWORD, db_host=DB_HOST))
+db = db_conn['AirP']['pred1']
 
 #%%
-for ctr in range(10):
-    try:
-        print(ctr)
-        if ctr<9: raise Exception("e!!")
-        if ctr==9: break
-    except:
-        print("exception happened.")
-        continue
-else:
-    ctr += 100
-    print("yeah", ctr)
+db.find_one(
+    {
+        'id': '76',
+        'time.year': 2019,
+        'time.month': 2,
+        'time.day': 8,
+        'time.hour': 12
+    }
+)
+
+#%%
